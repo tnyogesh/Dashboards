@@ -1,2 +1,2 @@
-# Dashboards
-To showcase all type of dashboards
+# Basic Dashboards
+To showcase all types of dashboards in the Power BI visualization tool.
